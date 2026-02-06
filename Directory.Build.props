@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Emp_Management_Clean_Arc</RootNamespace>
+  </PropertyGroup>
+</Project>
