@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution FormatVersion="11.00">
+  <Project UniqueProjectGuid="{YOUR-GUID}" Version="12.0" Name="Emp.Management">
+    <ProjectConfiguration>
+      <Configuration Name="Debug" Platform="AnyCPU" />
+      <Configuration Name="Release" Platform="AnyCPU" />
+    </ProjectConfiguration>
+  </Project>
+</Solution>
